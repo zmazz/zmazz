@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 My name is Ziad:
-👀 I’m interested in Data Science, Engineering and Analysis
-🔭 I’m currently coding in Python, SQL, Javascript and a bit of Solidity.
-🌱 Know about my experiences: https://www.linkedin.com/in/ziadmazzawi/
-📫 How to reach me: ziad.mazzawi@gmail.com 
+- 👀 I’m interested in Data Science, Engineering and Analysis
+- 🔭 I’m currently coding in Python, SQL, Javascript and a bit of Solidity.
+- 🌱 Know about my experiences: https://www.linkedin.com/in/ziadmazzawi/
+- 📫 How to reach me: ziad.mazzawi@gmail.com 
 
 Past projects built:
 - AI data analysis dashboard for Retail client (bootcamp project)
