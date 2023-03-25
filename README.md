@@ -11,6 +11,9 @@ Past projects built:
 - Fare forecasting model and UX for on-demand rides (bootcamp project)
 - DAO for crypto-savvies of a torn-country diaspora (ref. upon request)
 - Tool for NLP-powered assistive exploration of research papers in AI / ML related fields: https://research-pulse.streamlit.app/
+- Tool for ethereum address aggregate analytics views: https://ethgreg.streamlit.app/
+- Tool for speech-to-text file conversion: 
+- Kaggle competitions (house prices, taxifare...)
 
 Past education:
 - Le Wagon 2023 => Bootcamp in data science and artificial intelligence
