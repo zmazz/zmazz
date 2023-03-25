@@ -10,7 +10,7 @@ Past projects built:
 - AI data analysis dashboard for Retail client (bootcamp project)
 - Fare forecasting model and UX for on-demand rides (bootcamp project)
 - DAO for crypto-savvies of a torn-country diaspora (ref. upon request)
-- Tool for NLP-powered assistive exploration of research papers in AI / ML related fields (research-pulse.streamlit.app)
+- Tool for NLP-powered assistive exploration of research papers in AI / ML related fields: https://research-pulse.streamlit.app/
 
 Past education:
 - Le Wagon 2023 => Bootcamp in data science and artificial intelligence
