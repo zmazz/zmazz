@@ -1,25 +1,26 @@
 ### Hi there 👋
 
 My name is Ziad:
-- 👀 I’m interested in Data Science, Engineering and Analysis
-- 🔭 I’m currently coding in Python, SQL, Javascript and a bit of Solidity.
-- 🌱 Know about my experiences: https://www.linkedin.com/in/ziadmazzawi/
-- 📫 How to reach me: ziad.mazzawi@gmail.com 
+- 👀 I’m interested in data science, engineering and analysis, as well as general web development.
+- 🔭 I’m currently coding in python, sql, javascript and a bit of solidity.
+- 🧐 I'm looking to join a compelling project as a data scientist/engineer and ideaally leverage my past experiences.
 
-Past projects built:
-- AI data analysis dashboard for Retail client (bootcamp project)
-- Fare forecasting model and UX for on-demand rides (bootcamp project)
-- DAO for crypto-savvies of a torn-country diaspora (ref. upon request)
-- Tool for NLP-powered assistive exploration of research papers in AI / ML related fields: https://research-pulse.streamlit.app/
-- Tool for ethereum address aggregate analytics views: https://ethgreg.streamlit.app/
-- Tool for speech-to-text file conversion: 
+Data science & engineering projects:
+- 🛒 Data analytics dashboard and recommendations for brazilian Retail e-commerce client (bootcamp-related project)
+- 🚕 Fare forecasting model and UX for on-demand rides (bootcamp-related project)
+- 🌲 DAO for crypto-savvies of a torn-country diaspora: https://lebanons.org/
+- 🧩 NLP-powered assistive exploration of research papers in AI / ML related fields: https://research-pulse.streamlit.app/
+- 🧶 Ethereum tool for aggregate accounts analytics views: https://ethgreg.streamlit.app/
+- 🎙️ Speech-to-text file conversion tool: https://speech2text.streamlit.app/
 - Kaggle competitions (house prices, taxifare...)
 
-Past education:
+Education & experiences:
 - Le Wagon 2023 => Bootcamp in data science and artificial intelligence
 - Ecole des Mines de Paris 2016 => MSc, generalist science and engineering curriculum, minor in industrial economics
 - Prépa MP* Stanislas 2012 => BSc, focus on mathematics and physics, minor in computer sciences
 
+- 🌱 Know about my experiences: https://www.linkedin.com/in/ziadmazzawi/
+- 📫 How to reach me: ziad.mazzawi@gmail.com 
 
 <!--
 **zmazz/zmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
