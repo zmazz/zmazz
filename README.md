@@ -1,7 +1,7 @@
 ### Hi there I am Ziad 👋
-- 👀 I’m interested in data science, engineering and analysis, as well as general web development.
-- 🔭 I’m currently coding in python, sql, javascript and a bit of solidity.
-- 🧐 I'm looking to join a compelling project as a data scientist/engineer and ideaally leverage my past experiences.
+- interested in data science, engineering and analysis, as well as general web development.
+- currently coding in python, sql, javascript and a bit of solidity.
+- looking to join a compelling project as a data scientist/engineer and ideaally leverage my past experiences.
 
 Data science & engineering projects:
 - 🛒 Data analytics dashboard and recommendations for brazilian Retail e-commerce client (bootcamp-related project)
