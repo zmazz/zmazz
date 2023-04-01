@@ -14,7 +14,7 @@ Data science & engineering projects:
 
 Education & experiences:
 - Le Wagon 2023 => Bootcamp in data science and artificial intelligence
-- Ecole des Mines de Paris 2016 => MSc, generalist science and engineering curriculum, minor in industrial economics
+- Ecole des Mines de Paris 2016 => MSc, generalist science and engineering, minor in industrial economics
 - Prépa MP* Stanislas 2012 => BSc, focus on mathematics and physics, minor in computer sciences
 - 🌱 Know about my experiences: https://www.linkedin.com/in/ziadmazzawi/
 - 📫 How to reach me: ziad.mazzawi@gmail.com 
