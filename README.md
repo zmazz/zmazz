@@ -13,7 +13,7 @@ Data science & engineering projects:
 - Kaggle competitions (house prices, taxifare...)
 
 Education & experiences:
-- Le Wagon 2023 => Bootcamp in data science and artificial intelligence
+- Le Wagon 2023 => Bootcamp in machine learning and artificial intelligence
 - Ecole des Mines de Paris 2016 => MSc, generalist science and engineering, minor in industrial economics
 - Prépa MP* Stanislas 2012 => BSc, focus on mathematics and physics, minor in computer sciences
 - 🌱 Know about my experiences: https://www.linkedin.com/in/ziadmazzawi/
