@@ -4,14 +4,14 @@
 - looking to join a compelling project as a data scientist/engineer and ideaally leverage my past experiences.
 
 Data science & engineering projects:
+- 🧩 NLP-powered assistive exploration of research papers in AI / ML related fields: [research-pulse](https://research-pulse.streamlit.app/) (v0.8)
+- 🧬 Meme generator tool from text(s) input and template selection: [genmeme](https://genmeme.streamlit.app/) (v0.7)
+- 🧶 Ethereum tool for aggregate accounts analytics views: [ethgreg](https://ethgreg.streamlit.app/) (v0.5)
+- 🌲 DAO for crypto-savvies in the diaspora: [lebanons-dao](https://lebanons.org/) (v0.9)
+- 🎙️ Speech-to-text file conversion tool: [speech2text](https://speech2text.streamlit.app/) (v0.2)
+- 🐦 Tweets threads screenshots organizer and sense extractor tool: (under construction)
 - 🛒 Data analytics dashboard and recommendations for brazilian Retail e-commerce client (bootcamp-related project)
 - 🚕 Fare forecasting model and UX for on-demand rides (bootcamp-related project)
-- 🌲 DAO for crypto-savvies in the diaspora: [lebanons-dao](https://lebanons.org/) (v0.9)
-- 🧩 NLP-powered assistive exploration of research papers in AI / ML related fields: [research-pulse](https://research-pulse.streamlit.app/) (v0.8)
-- 🧶 Ethereum tool for aggregate accounts analytics views: [ethgreg](https://ethgreg.streamlit.app/) (v0.5)
-- 🎙️ Speech-to-text file conversion tool: [speech2text](https://speech2text.streamlit.app/) (v0.2)
-- 🧬 Meme generator tool from template and text(s) inputs: [genmeme](https://genmeme.streamlit.app/) (v0.7)
-- 🐦 Tweets threads screenshots organizer and sense extractor tool: (under construction)
 - Kaggle competitions (house prices, taxifare...)
 
 Education & experiences:
