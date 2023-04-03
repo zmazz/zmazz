@@ -1,9 +1,9 @@
 ### Hi there I am Ziad 👋
 - interested in data science, engineering and analysis, as well as general web development.
-- currently coding in python, sql, javascript and a bit of solidity.
-- looking to join a compelling project as a data scientist/engineer and ideaally leverage my past experiences.
+- currently coding in python, sql, with a bit of javascript, solidity, makefile, dockerfile.
+- looking to join a compelling project as a data scientist/engineer.
 
-Data science & engineering projects:
+Data, coding & engineering projects:
 - 🧩 NLP-powered assistive exploration of research papers in AI / ML related fields: [research-pulse](https://research-pulse.streamlit.app/) (v0.8)
 - 🧬 Meme generator tool from text(s) input and template selection: [genmeme](https://genmeme.streamlit.app/) (v0.7)
 - 🧶 Ethereum tool for aggregate accounts analytics views: [ethgreg](https://ethgreg.streamlit.app/) (v0.5)
