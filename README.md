@@ -6,7 +6,7 @@
 Data science & engineering projects:
 - 🛒 Data analytics dashboard and recommendations for brazilian Retail e-commerce client (bootcamp-related project)
 - 🚕 Fare forecasting model and UX for on-demand rides (bootcamp-related project)
-- 🌲 DAO for crypto-savvies in the diaspora: [lebanons-dao](https://lebanons.org/)
+- 🌲 DAO for crypto-savvies in the diaspora: [lebanons-dao](https://lebanons.org/) (v0.9)
 - 🧩 NLP-powered assistive exploration of research papers in AI / ML related fields: [research-pulse](https://research-pulse.streamlit.app/) (v0.8)
 - 🧶 Ethereum tool for aggregate accounts analytics views: [ethgreg](https://ethgreg.streamlit.app/) (v0.5)
 - 🎙️ Speech-to-text file conversion tool: [speech2text](https://speech2text.streamlit.app/) (v0.2)
