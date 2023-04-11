@@ -10,8 +10,8 @@ Data, coding & engineering projects:
 - 🌲 DAO for crypto-savvies in the diaspora: [lebanons-dao](https://lebanons.org/) (v0.9)
 - 🎙️ Speech-to-text file conversion tool: [speech2text](https://speech2text.streamlit.app/) (v0.2)
 - 🐦 Tweets threads screenshots organizer and sense extractor tool: (under construction)
-- 🛒 Data analytics dashboard and recommendations for brazilian Retail e-commerce client (bootcamp-related project)
-- 🚕 Fare forecasting model and UX for on-demand rides (bootcamp-related project)
+- 🛒 Data analytics dashboard & recommendations for brazilian Retail e-commerce client (bootcamp project)
+- 🚕 Fare forecasting model and UX for on-demand rides (bootcamp project)
 - Kaggle competitions (house prices, taxifare...)
 
 Education & experiences:
