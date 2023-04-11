@@ -4,8 +4,8 @@
 - looking to join a compelling project as a data scientist/engineer.
 
 Data, coding & engineering projects:
-- 🧩 NLP-powered assistive exploration of research papers in AI / ML related fields: [research-pulse](https://research-pulse.streamlit.app/) (v0.8)
-- 🧬 Meme generator tool from text(s) input and template selection: [memegene](https://memegene.streamlit.app/) (v0.7)
+- 🧩 NLP-powered assistive exploration of research papers in AI / ML related fields: [research-pulse](https://research-pulse.streamlit.app/) (v0.9)
+- 🧬 Meme generator tool from text(s) input and template selection: [memegene](https://memegene.streamlit.app/) (v0.8)
 - 🧶 Ethereum tool for aggregate accounts analytics views: [ethgreg](https://ethgreg.streamlit.app/) (v0.5)
 - 🌲 DAO for crypto-savvies in the diaspora: [lebanons-dao](https://lebanons.org/) (v0.9)
 - 🎙️ Speech-to-text file conversion tool: [speech2text](https://speech2text.streamlit.app/) (v0.2)
