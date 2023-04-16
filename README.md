@@ -1,7 +1,7 @@
 ### Hello there I am Ziad 👋
-- interested in data science, engineering and analysis, as well as general web development.
-- currently coding in python, sql, with a bit of javascript, solidity, makefile, dockerfile.
-- previously in tech innovation investments and consultancy in various geographies.
+- interested in data science, analysis and machine learning engineering, as well as general web development.
+- currently coding in python, sql, with a bit of javascript, html, solidity, makefile, dockerfile...
+- previously in tech innovation investments & consultancy, in various sectors & geographies.
 - looking to join a compelling project as a data scientist/engineer.
 
 Data, coding & engineering projects:
