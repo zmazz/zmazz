@@ -11,7 +11,7 @@ Data, coding & engineering projects:
 - 🧶 Ethereum tool for aggregate accounts analytics views: [ethgreg](https://ethgreg.streamlit.app/) (v0.5)
 - 🌲 DAO for crypto-savvies in the diaspora: [lebanons-dao](https://lebanons.org/) (v0.9)
 - 🎙️ Speech-to-text file conversion tool: [speech2text](https://speech2text.streamlit.app/) (v0.2)
-- 🐦 Tweets threads screenshots organizer and sense extractor tool: (under construction)
+- 🐦 Tweets threads screenshots organizer and sense extractor tool: (draft)
 - 🛒 Data analytics dashboard & recommendations for brazilian Retail e-commerce client (bootcamp project)
 - 🚕 Fare forecasting model and UX for on-demand rides (bootcamp project)
 - Kaggle competitions (house prices, taxifare...)
