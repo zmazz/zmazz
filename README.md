@@ -6,7 +6,8 @@
 
 Data, coding & engineering projects:
 - 🧩 NLP-powered assistive exploration of research papers in AI / ML related fields: [research-pulse](https://research-pulse.streamlit.app/) (v0.9)
-- 🐸 Tasks autonomous planning, inspired by babyagi & built with langchain & openai api: [taskai](https://taskai.streamlit.app/) (v0.9)
+- 🐸 Tasks autonomous planning, inspired by babyagi & built with langchain & openai gpt3: [taskai](https://taskai.streamlit.app/) (v0.9)
+- 🥼 Resume auto-reviewer and cover letter generator, built with OCR and openai gpt3: [jobdoc](https://jobdoc.streamlit.app/) (v0.9)
 - 🧬 Memes tools for search and generation (from text(s) input and template selection): [memegene](https://memegene.streamlit.app/) (v0.8)
 - 🧞‍♂️ GPT2 chatbot for Arabic users: [zaki-chat](https://zaki-chat.streamlit.app/) (v0.7)
 - 🧶 Ethereum tool for aggregate accounts analytics views: [ethgreg](https://ethgreg.streamlit.app/) (v0.5)
