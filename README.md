@@ -11,7 +11,7 @@ Data, coding & engineering projects:
 - 🧞‍♂️ Arabic GPT chatbot, built with hugging face, google translate and openai gpt3: [zaki-chat](https://zaki-chat.streamlit.app/) (v0.9)
 - 🧬 Memes tools for search and generation (from text(s) input and template selection): [memegene](https://memegene.streamlit.app/) (v0.8)
 - 🎬 youtube2onepager tool, built with pytube, moviepy, speech_recognition & openai gpt3: [youtube2onepager](https://youtube2onepager.streamlit.app/) (v0.7)
-- 🌲 DAO for crypto-savvies in the diaspora, built on wordpress & aragon: [lebanons-dao](https://lebanons.org/) (v0.6)
+- 🌲 DAO for crypto-savvies in the diaspora, built with wordpress & aragon blockchain: [lebanons-dao](https://lebanons.org/) (v0.6)
 - 🧶 Ethereum tool for aggregate accounts analytics views: [ethgreg](https://ethgreg.streamlit.app/) (v0.5)
 - 🎙️ speech-to-text file conversion tool: [speech2text](https://speech2text.streamlit.app/) (v0.2)
 - 🐦 Tweets threads screenshots organizer and sense extractor tool (v0.2)
