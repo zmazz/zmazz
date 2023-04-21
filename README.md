@@ -10,7 +10,7 @@ Data, coding & engineering projects - cf. latest portfolio at [AI Tools Hub](htt
 - 🦾 Tasks autonomous planning, inspired by babyagi & built with langchain & openai gpt3: [taskai](https://taskai.streamlit.app/) (v0.8)
 - 🧬 Memes tools for search and generation (from text(s) input and template selection): [memegene](https://memegene.streamlit.app/) (v0.8)
 - 📝 Solidity smart contract pre-audit code generator (for token, dex, nft, vesting...) [smarter-contracting](https://smarter-contracting.streamlit.app/) (v0.8)
-- 🧞‍♂️ Arabic chatbot based on english GPT, built with google translate and openai gpt3: [zaki-chat](https://zaki-chat.streamlit.app/) (v0.8)
+- 🧞‍♂️ Arabic chatbot based on english GPT, built with google translate and openai gpt3: [zaki-chat](https://zaki-chat.streamlit.app/) (v0.7)
 - 🎬 Small videos summarizer, built with pytube, moviepy, speech_recognition & openai gpt3: [youtube2onepager](https://youtube2onepager.streamlit.app/) (v0.7)
 - 🌲 DAO for crypto-savvies in the diaspora, built with wordpress, snapshot & aragon: [lebanons-dao](https://lebanons.org/) (v0.6)
 - 🧶 Aggregator of etherscan analytics, with insights into total holdings, transactions, gas used...: [ethgreg](https://ethgreg.streamlit.app/) (v0.5)
