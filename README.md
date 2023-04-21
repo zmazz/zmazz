@@ -13,6 +13,7 @@ Data, coding & engineering projects - cf. latest portfolio at [AI Tools Hub](htt
 - 🎬 Small videos summarizer, built with pytube, moviepy, speech_recognition & openai gpt3: [youtube2onepager](https://youtube2onepager.streamlit.app/) (v0.7)
 - 🌲 DAO for crypto-savvies in the diaspora, built with wordpress, snapshot & aragon: [lebanons-dao](https://lebanons.org/) (v0.6)
 - 🧶 Aggregator of etherscan analytics, with insights into total holdings, transactions, gas used...: [ethgreg](https://ethgreg.streamlit.app/) (v0.5)
+- 📝 Solidity smart contract pre-audit code generator (for token, dex, nft, vesting...) [smarter-contracts](https://smarter-contracts.streamlit.app/) (v0.2)
 - 🎙️ speech-to-text file conversion tool: [speech2text](https://speech2text.streamlit.app/) (v0.2)
 - 🐦 Tweets threads screenshots organizer and sense extractor tool (v0.2)
 - 🛒 Data analytics dashboard & recommendations for brazilian Retail e-commerce client (bootcamp project)
