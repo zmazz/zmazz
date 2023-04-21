@@ -4,7 +4,7 @@
 - previously in tech innovation investments & consultancy, in various sectors & geographies.
 - looking to join a compelling project as a ai/data scientist/engineer.
 
-Data, coding & engineering projects - cf. latest portfolio at [AI Tools Hub](https://ai-tools.streamlit.app/):
+Data, coding & engineering projects - cf. latest portfolio at [AI Garage](https://ai-garage.streamlit.app/):
 - 🧩 NLP-powered assistive exploration of research papers in AI / ML & related fields: [research-pulse](https://research-pulse.streamlit.app/) (v0.9)
 - 🥼 Resume auto-reviewer and cover letter generator, built with OCR and openai gpt3: [jobdoc](https://jobdoc.streamlit.app/) (v0.9)
 - 🦾 Tasks autonomous planning, inspired by babyagi & built with langchain & openai gpt3: [taskai](https://taskai.streamlit.app/) (v0.8)
