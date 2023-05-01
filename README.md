@@ -5,7 +5,7 @@
 - looking to join a compelling project as a ai/data scientist/engineer.
 
 Data, coding & engineering projects : 
-- NLP and GPT-based applications at 💨 [AI Garage](https://ai-garage.streamlit.app/), e.g.: 
+- NLP and GPT-based applications at 💨 **[AI Garage](https://ai-garage.streamlit.app/)**, e.g.: 
   - **Research Pulse** 🧩 NLP-powered assistive exploration of research papers in AI / ML & related fields; 
   - **JobDoc** 🥼 Resume auto-reviewer and cover letter generator; 
   - **Travel Planner** 🏝️ Travel planning assistant; 
