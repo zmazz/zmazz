@@ -8,7 +8,7 @@
 - 🤖 Over 20 NLP and GPT-based streamlit web-apps accessible at 💨 **[AI Garage](https://ai-garage.streamlit.app/)**. 
 - 🌲 DAO for crypto-savvies in the diaspora, built with wordpress, snapshot & aragon.
 - 🌍 World economies macro financial data/stats viewer, a la coinmarketcap/coingecko.
-- 🐦 Screenshots sense extractor, analyzer, organizer and collection visualizer for better access and .
+- 📸 Screenshots collection analyzer, sense extractor, organizer and visualizer for better future access.
 - 🐦 Twitter bot for autonomous reply and follow, and automatic tweets generation based on context.
 - 🛒 Data analytics dashboard & recommendations for brazilian Retail e-commerce client (bootcamp project).
 - 🚕 Fare forecasting model and UX for on-demand rides (bootcamp project).
