@@ -1,30 +1,47 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zmazz.zmazz" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ziad!;" />
-</h1>
-
-
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/ziadmazzawi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,nodejs,react" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,vscode,git,bash" />
-</div>
-
-<br/><br/>
-<hr/>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌;+Feel+free+to+contact+me+for+your+projects!;">
-</h3>
+<h2 align="center">Hello, I am Ziad! 👋</h2>
+<p align="center"><sub>AI engineer · Data scientist · Software developer</sub></p>
 
 <br/>
+
+<p align="center">
+  <sub>Full-stack GenAI systems: RAG, agentic workflows, KB structuring, model work.</sub><br/>
+  <sub>Builder end-to-end: scoping, core components, evaluation, monitoring, production.</sub>
+</p>
+
+<p align="center"><sub>· · ·</sub></p>
+
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li><sub>Assisting clients in curating the latest data &amp; AI techniques for their companies, domains &amp; processes</sub></li>
+        <li><sub>Specialising in NLP, model training, LLM fine-tuning, agentic frameworks, micro-services &amp; APIs</sub></li>
+        <li><sub>Enthusiastic about full-stack development in Python &amp; TypeScript, with AWS or on-prem deployment</sub></li>
+        <li><sub>Experienced in technology ecosystems &amp; with innovative organisations across EMEA</sub></li>
+        <li><sub>Broadly interested in institutional economics, venture &amp; web development</sub></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>· · ·</sub></p>
+
+<p align="center">
+  <code>Python</code> · <code>TypeScript</code> · <code>FastAPI</code> · <code>React</code> · <code>Docker</code> · <code>AWS</code> · <code>GCP</code>
+</p>
+<p align="center">
+  <code>LangGraph</code> · <code>Pydantic</code> · <code>Hugging Face</code> · <code>PyTorch</code> · <code>TensorFlow</code> · <code>scikit-learn</code>
+</p>
+<p align="center">
+  <code>OpenAI</code> · <code>Anthropic</code> · <code>Gemini</code> · <code>Mistral</code> · <code>DeepSeek</code> · <code>Cursor</code>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ziadmazzawi/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:ziad.mazzawi@gmail.com">Email</a>
+</p>
